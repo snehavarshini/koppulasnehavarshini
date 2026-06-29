@@ -1,2 +1,0 @@
-# koppulasnehavarshini
-project
